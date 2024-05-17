@@ -1,0 +1,2 @@
+Ajout de contenu à file3.txt
+Ajout de contenu supplémentaire à file3.txt

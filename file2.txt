@@ -1,1 +1,2 @@
 Contenu de file2
+Ajout de contenu à file2.txt
